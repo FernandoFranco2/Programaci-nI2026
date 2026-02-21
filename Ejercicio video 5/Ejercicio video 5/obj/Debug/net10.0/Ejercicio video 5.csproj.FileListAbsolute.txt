@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Documents\Universidad\Progra 1\tarea pOOO\Ejercicio video 5\Ejercicio video 5\bin\Debug\net10.0\Ejercicio video 5.exe
+C:\Users\ferna\OneDrive\Documents\Universidad\Progra 1\tarea pOOO\Ejercicio video 5\Ejercicio video 5\bin\Debug\net10.0\Ejercicio video 5.deps.json
+C:\Users\ferna\OneDrive\Documents\Universidad\Progra 1\tarea pOOO\Ejercicio video 5\Ejercicio video 5\bin\Debug\net10.0\Ejercicio video 5.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documents\Universidad\Progra 1\tarea pOOO\Ejercicio video 5\Ejercicio video 5\bin\Debug\net10.0\Ejercicio video 5.dll
+C:\Users\ferna\OneDrive\Documents\Universidad\Progra 1\tarea pOOO\Ejercicio video 5\Ejercicio video 5\bin\Debug\net10.0\Ejercicio video 5.pdb
+C:\Users\ferna\OneDrive\Documents\Universidad\Progra 1\tarea pOOO\Ejercicio video 5\Ejercicio video 5\obj\Debug\net10.0\Ejercicio video 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documents\Universidad\Progra 1\tarea pOOO\Ejercicio video 5\Ejercicio video 5\obj\Debug\net10.0\Ejercicio video 5.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documents\Universidad\Progra 1\tarea pOOO\Ejercicio video 5\Ejercicio video 5\obj\Debug\net10.0\Ejercicio video 5.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documents\Universidad\Progra 1\tarea pOOO\Ejercicio video 5\Ejercicio video 5\obj\Debug\net10.0\Ejercicio video 5.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\Universidad\Progra 1\tarea pOOO\Ejercicio video 5\Ejercicio video 5\obj\Debug\net10.0\Ejercicio video 5.sourcelink.json
+C:\Users\ferna\OneDrive\Documents\Universidad\Progra 1\tarea pOOO\Ejercicio video 5\Ejercicio video 5\obj\Debug\net10.0\Ejercicio video 5.dll
+C:\Users\ferna\OneDrive\Documents\Universidad\Progra 1\tarea pOOO\Ejercicio video 5\Ejercicio video 5\obj\Debug\net10.0\refint\Ejercicio video 5.dll
+C:\Users\ferna\OneDrive\Documents\Universidad\Progra 1\tarea pOOO\Ejercicio video 5\Ejercicio video 5\obj\Debug\net10.0\Ejercicio video 5.pdb
+C:\Users\ferna\OneDrive\Documents\Universidad\Progra 1\tarea pOOO\Ejercicio video 5\Ejercicio video 5\obj\Debug\net10.0\Ejercicio video 5.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documents\Universidad\Progra 1\tarea pOOO\Ejercicio video 5\Ejercicio video 5\obj\Debug\net10.0\ref\Ejercicio video 5.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferna\\OneDrive\\Documents\\Universidad\\Progra 1\\tarea pOOO\\Ejercicio video 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F437AB-B494-45FE-84FA-61A03F37EBE3}|Ejercicio video 6\\Ejercicio video 6.csproj|c:\\users\\ferna\\onedrive\\documents\\universidad\\progra 1\\tarea pooo\\ejercicio video 6\\ejercicio video 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F437AB-B494-45FE-84FA-61A03F37EBE3}|Ejercicio video 6\\Ejercicio video 6.csproj|solutionrelative:ejercicio video 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Documents\\Universidad\\Progra 1\\tarea pOOO\\Ejercicio video 6\\Ejercicio video 6\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio video 6\\Program.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Documents\\Universidad\\Progra 1\\tarea pOOO\\Ejercicio video 6\\Ejercicio video 6\\Program.cs",
+              "RelativeToolTip": "Ejercicio video 6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T04:35:42.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
