@@ -1,0 +1,28 @@
+Respuestas tarea programación 1
+
+1. ¿Qué es GIT?
+Git es un sistema opensource que sirve para tener un orden de las versiones creadas y que permite organizar y controlar los cambios realizados en archivos de un proyecto.
+
+2. ¿Cuáles son los comandos mas importantes y parqa que sirven?
+$git init = para iniciar un repositorio git en la carpeta seleccionada
+
+$git add = para agregar archivos al área de preparación 
+
+$git commit = para guardar los cambios realizados en el repositorio con un mensaje de descripción (ejemplo $git commit -m "Si se pudo salvar la chamba jefe".
+
+$git status = para mostrar los cambios, modificaciones, eliminados, pendientes.
+
+$git log = historial de cambios realizados 
+
+3. ¿Cuál es la diferencia entre Git y GitHub?
+Git es un programa que esta en la pc y permite el control de versiones de un archivo de forma local.47
+GitHub es una plataforma en linea que permite almacenar repositorios en la nube y compartirlos con otras personas
+
+4. Enumere los comandos para subir cambios a un repositorio
+	1. $git status para verificar el estado de los archivos
+	2. $git add para agregar los archivos modificados
+	3. $git commit -m "" para dejar la descripción del cambio o el porque se hizo
+	4. $git push origin main 
+
+5. ¿Qué es una Branch?
+Una Branch es una copia del proyecto que permite trabajar en otras versiones sin afectar o cambiar la versión original, también facilitan el trabajo en equipo.
